@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Mr",
+        "firstName": "Rosh",
+        "lastName": "Bhuvad",
+        "email": "roshanbhuvad@gmail.com",
+        "role": "User",
+        "password": "12345678",
+        "id": 1,
+        "dateCreated": "",
+        "dateUpdated": ""
+    }
+]
