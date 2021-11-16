@@ -3,7 +3,7 @@ import Head from "next/head";
 import "../styles/globals.css";
 import "../styles/style.css";
 import "../styles/styles-custom.css";
-import { Nav, Alert } from "../components";
+import { Nav } from "../components";
 
 export default App;
 
@@ -22,7 +22,6 @@ function App({ Component, pageProps }) {
 
       <div className="app-container bg-light">
         <Nav />
-        <Alert />
         <div className="container pt-4 pb-4">
           <Component {...pageProps} />
         </div>
